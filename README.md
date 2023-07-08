@@ -1,0 +1,2 @@
+# douban250_sentiment_analysis
+爬取豆瓣top250电影，并且对影评进行情感分析
